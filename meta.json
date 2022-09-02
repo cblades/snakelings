@@ -1,0 +1,13 @@
+{
+    "projectVersion": "0.1.0",
+    "exercises": [
+        {
+            "path": "variables/variables1.py",
+            "executable": "python"
+        },
+        {
+            "path": "if/if1.py",
+            "executable": "python"
+        }
+    ]
+}
