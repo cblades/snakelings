@@ -1,2 +1,2 @@
 """Snakelings training tool."""
-from .snakelings import main
+from .snakelings import cli
